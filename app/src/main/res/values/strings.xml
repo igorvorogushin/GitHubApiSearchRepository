@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHub Api</string>
+    <string name="menu_search">Search repositories...</string>
+    <string name="error">Error</string>
+</resources>
